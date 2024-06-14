@@ -1,2 +1,2 @@
-# hilo.github.io
+# hilo
 python
